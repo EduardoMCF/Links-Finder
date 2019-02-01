@@ -7,9 +7,9 @@ A webcrawler to list all the links within a page or a group of pages
 ## Getting started
 To install all the dependencies, execute the following command within the project folder.
 
-    ```
-    pip install -r requirements
-    ```
+```
+pip install -r requirements
+```
 ## How to use
 There are two parameters:
 
@@ -20,13 +20,13 @@ After the execution, a .txt file will be created in the project folder containin
 
 ## E.G.:
 
-    ```
-        python webCrawler --url https://github.com/EduardoMCF/Links-Finder
-    ```
+```
+    python webCrawler --url https://github.com/EduardoMCF/Links-Finder
+```
 
-    ```
-        python webCrawler --url https://github.com/EduardoMCF/Links-Finder --recursive True
-    ```
+```
+    python webCrawler --url https://github.com/EduardoMCF/Links-Finder --recursive True
+```
 
 ## License
 
