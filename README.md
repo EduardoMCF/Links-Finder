@@ -8,7 +8,7 @@ A webcrawler to list all the links within a page or a group of pages
 To install all the dependencies, execute the following command within the project folder.
 
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 ## How to use
 There are two parameters:
